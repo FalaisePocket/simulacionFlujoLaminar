@@ -19,11 +19,3 @@ def jacobi( matriz, a,):
     
     return x
 
-
-
-
-
-
-
-
-
