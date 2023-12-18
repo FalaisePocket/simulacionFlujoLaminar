@@ -1,2 +1,2 @@
 # simulacionFlujoLaminar
-No sé que haces viendo esto la vdd
+La simulacion de un fluido en un escenario dado
